@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual env
+.env
+venv/
+.env/
+
+# Logs
+*.log
+
+# (Optional) ML artifacts you don't want in Git
+mlruns/
